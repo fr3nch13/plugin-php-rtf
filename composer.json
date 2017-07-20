@@ -1,0 +1,21 @@
+{
+	"name" : "nih-fo/plugin-php-rtf",
+	"description" : "CakePHP Plugin: Parses, reads, and writes RTF.",
+	"type" : "cakephp-plugin",
+	"keywords" : ["cakephp", "plugin", "php-rtf"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Brian French",
+			"role": "Developer"
+		},
+		{
+			"name": "Joshua Knust",
+			"role": "Manager"
+		} 
+	],
+	"require": {
+		"nih-fo/plugin-utilities": "1.*",
+		"nih-fo/vendor-/php-rtf-html": "1.*"
+	}
+}
