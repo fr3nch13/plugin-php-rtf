@@ -3,7 +3,7 @@
 	"description" : "CakePHP Plugin: Parses, reads, and writes RTF.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "php-rtf"],
-	"license": "proprietary",
+	"license": "mit",
 	"authors": [
 		{
 			"name": "Brian French",
