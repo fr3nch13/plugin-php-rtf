@@ -1,5 +1,5 @@
 {
-	"name" : "nih-fo/plugin-php-rtf",
+	"name" : "fr3nch13/plugin-php-rtf",
 	"description" : "CakePHP Plugin: Parses, reads, and writes RTF.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "php-rtf"],
@@ -15,7 +15,7 @@
 		} 
 	],
 	"require": {
-		"nih-fo/plugin-utilities": "1.*",
-		"nih-fo/vendor-/php-rtf-html": "1.*"
+		"fr3nch13/plugin-utilities": "1.*",
+		"fr3nch13/vendor-/php-rtf-html": "1.*"
 	}
 }
